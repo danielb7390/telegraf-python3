@@ -1,2 +1,2 @@
 # telegraf-python3
-Telegraf docker with python3
+Docker of `telegraf:lastest` with `python3`
